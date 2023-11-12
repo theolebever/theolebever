@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there, I'm Theo Le Bever - aka Belvedere 👋<br>
-I'm a 4th year Software Engineer student at EPITA ! 💻<br>
+I'm a 5th year Software Engineer student at EPITA ! 💻<br>
 
 Driven by a passion for cybersecurity, I thrive on deciphering complex vulnerabilities and safeguarding digital assets. Armed with technical expertise and a deep understanding of emerging threats, I am committed to fortifying the security landscape and eagerly embrace new cybersecurity challenges. 🌐<br>
 
